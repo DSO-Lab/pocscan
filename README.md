@@ -18,7 +18,13 @@
     -t int		//并发线程数。 (default 20)
     -u string	//URL请求链接。
 
-4、检测列表
+4、环境
+
+```
+python 2.7.15
+```
+
+5、检测列表
 
 ```
 DSO-00010:Apache Tomcat 管理后台弱口令
